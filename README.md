@@ -8,7 +8,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ayuLp&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-activity-graph.cyclic.app/graph?username=ayuLp&theme=dracula)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=ayuLp&theme=dracula)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/ayuLp/count.svg) visitor,Thank You! :kissing_heart: :kissing_heart:
 
